@@ -1,2 +1,2 @@
-# secure_python_password_manager
- A simple & secure password manager.
+# simple_python_password_manager_generator
+ A simple python GUI password manager & generator.
